@@ -36,17 +36,8 @@ pip install -r requirements.txt
 python main.py
 ```
 
----
 
 
-
-## Quick Start Prompts for Each Task
-
-For rapid development, we've prepared copy-paste ready prompts for each task below. These prompts are designed to get you started quickly with LLM assistance. Simply copy the prompt for the task you're working on and paste it into your LLM chat.
-
-**Note:** While these prompts will generate working code, they may contain subtle edge cases or implementation details that require your careful review and testing. This is intentional to help you develop critical code review skills.
-
----
 
 ## Tasks to Complete
 
