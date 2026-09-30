@@ -10,6 +10,7 @@
 | --- | --- |
 | a. Gameplay video BEFORE the changes (broken behaviour visible) | `videos/before.mp4` |
 | a. Gameplay video AFTER the changes (fixes + new features) | `videos/after.mp4` |
+| a. Raw full-length captures (mp4 conversions of the original `.mov` recordings) | `videos/full_recording_before.mp4`, `videos/full_recording_after.mp4` |
 | b. Updated code | `code/` (identical to the repo root) |
 | c. Complete chat history exported as PDF | `chat_history.pdf` |
 
